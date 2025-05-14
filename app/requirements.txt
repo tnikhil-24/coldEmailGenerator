@@ -1,0 +1,17 @@
+# Core dependencies
+python-dotenv
+pandas
+streamlit
+chromadb
+
+# LangChain & LLMs
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+# Web scraping & cleaning
+beautifulsoup4
+requests
+
+chromadb[chromadb]
