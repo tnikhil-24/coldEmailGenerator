@@ -112,13 +112,6 @@ Data Engineering pipelines,"https://atliq.com/project-de"
 
 ---
 
-## 🧑‍💻 Maintained by
-
-**Mohan @ AtliQ**  
-For questions, reach out to [your-email@atliq.com].
-
----
-
 ## 📜 License
 
 MIT License
